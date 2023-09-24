@@ -14,3 +14,5 @@ Here's how it works:
 {{#include ../listings/ch00-introduction/counter/src/counter.cairo}}
 ```
 Visit contract on [Voyager](https://goerli.voyager.online/contract/0x01664a69Fe701a1df7Bb0ae4A353792d0cf4E27146ee860075cbf6108b1D5718) or play with it in [Remix](https://remix.ethereum.org/?#activate=Starknet&url=https://github.com/NethermindEth/StarknetByExample/blob/main/listings/ch00-introduction/counter/src/counter.cairo).
+
+# it seems that this countract is not compiling properly on Remix. Fetching error. 24.09.2023
